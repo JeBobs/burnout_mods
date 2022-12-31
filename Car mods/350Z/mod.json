@@ -1,9 +1,9 @@
 [
-	{
-	  "mod_name": "Nissan 350Z",
-	  "mod_author": "DGIorio",
-	  "mod_version": "1.0",
-	  "mod_description": "The Nissan 350Z, originally made by DGIorio for The Ultimate Box, ported to Burnout Paradise Remastered.",
-	  "mod_image_link": ""
-	}
+  {
+    "mod_name": "Nissan 350Z",
+    "mod_author": "DGIorio",
+    "mod_version": 1,
+    "mod_description": "The Nissan 350Z, originally made by DGIorio for The Ultimate Box, ported to Burnout Paradise Remastered.",
+    "mod_image_link": ""
+  }
 ]
